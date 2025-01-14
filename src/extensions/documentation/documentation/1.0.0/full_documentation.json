@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2025-01-13T18:55:03.664Z"
+    "x-generation-date": "2025-01-14T16:10:36.881Z"
   },
   "x-strapi-config": {
     "plugins": [
@@ -4982,6 +4982,12 @@
                     "request_status": {
                       "type": "string"
                     },
+                    "Brand": {
+                      "type": "string"
+                    },
+                    "AboutCar": {
+                      "type": "string"
+                    },
                     "createdAt": {
                       "type": "string",
                       "format": "date-time"
@@ -6039,6 +6045,12 @@
                     "request_status": {
                       "type": "string"
                     },
+                    "Brand": {
+                      "type": "string"
+                    },
+                    "AboutCar": {
+                      "type": "string"
+                    },
                     "createdAt": {
                       "type": "string",
                       "format": "date-time"
@@ -7064,6 +7076,12 @@
                             "format": "date"
                           },
                           "request_status": {
+                            "type": "string"
+                          },
+                          "Brand": {
+                            "type": "string"
+                          },
+                          "AboutCar": {
                             "type": "string"
                           },
                           "createdAt": {
@@ -8393,6 +8411,12 @@
                     "request_status": {
                       "type": "string"
                     },
+                    "Brand": {
+                      "type": "string"
+                    },
+                    "AboutCar": {
+                      "type": "string"
+                    },
                     "createdAt": {
                       "type": "string",
                       "format": "date-time"
@@ -8600,6 +8624,12 @@
                 "format": "date"
               },
               "request_status": {
+                "type": "string"
+              },
+              "Brand": {
+                "type": "string"
+              },
+              "AboutCar": {
                 "type": "string"
               },
               "locale": {
@@ -9526,6 +9556,12 @@
                     "request_status": {
                       "type": "string"
                     },
+                    "Brand": {
+                      "type": "string"
+                    },
+                    "AboutCar": {
+                      "type": "string"
+                    },
                     "createdAt": {
                       "type": "string",
                       "format": "date-time"
@@ -9638,6 +9674,12 @@
             "format": "date"
           },
           "request_status": {
+            "type": "string"
+          },
+          "Brand": {
+            "type": "string"
+          },
+          "AboutCar": {
             "type": "string"
           },
           "createdAt": {
